@@ -1,2 +1,2 @@
 # osunlgaward
-List of local governments in Osun state and Associated wards
+List of local governments in Osun state, LGA codes and Associated wards
